@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carl El Cedrik T. Rebosura
 - 👀 I’m interested in Computer programming 
-- 🌱 I’m currently learning in desktop developing 
+- 🌱 I’m currently learning in web developing 
 - 💞️ I’m looking to collaborate on Programmers willing to help
 - 📫 Email: carlelcedrickrebosura@gmail.com
 - 😄 Pronouns: English and Tagalog
